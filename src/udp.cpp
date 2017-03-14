@@ -1,6 +1,6 @@
-#include "ros/ros.h"
-#include "std_msgs/String.h"
-#include <sstream>
+//
+// Created by montypylon on 3/13/17.
+//
 #include <sys/types.h>
 #include <unistd.h>
 #include <sys/types.h>
@@ -15,8 +15,6 @@
 #include <errno.h>
 #include <stdlib.h>
 #include <iostream>
-
-using namespace std;
 
 int resolvehelper(const char* hostname, int family, const char* service, sockaddr_storage* pAddr)
 {
@@ -36,7 +34,9 @@ int resolvehelper(const char* hostname, int family, const char* service, sockadd
     return result;
 }
 
-void sendMsg() {
+
+int main()
+{
     int result = 0;
     int sock = socket(AF_INET, SOCK_DGRAM, 0);
 
@@ -68,24 +68,7 @@ void sendMsg() {
     result = sendto(sock, msg, msg_length, 0, (sockaddr*)&addrDest, sizeof(addrDest));
 
     std::cout << result << " bytes sent" << std::endl;
-}
 
-int main(int argc, char **argv)
-{
-    ros::init(argc, argv, "main");
-    ros::NodeHandle n;
-    ros::Rate loop_rate(1);
-    
-    int count = 0;
-    while (ros::ok())
-    {
-        cout << "Sending message..." << endl;
-        sendMsg();
-        
-        ros::spinOnce();
-        loop_rate.sleep();
-    }
-    
-    
     return 0;
+
 }

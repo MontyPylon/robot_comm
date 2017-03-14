@@ -1,0 +1,8 @@
+prefix=/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/devel
+
+Name: robot_comm
+Description: Description of robot_comm
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/devel/lib 
+Requires: 

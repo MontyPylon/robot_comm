@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/devel/setup.sh
