@@ -115,7 +115,35 @@ file(INSTALL DESTINATION "/usr/local" TYPE FILE FILES "/home/montypylon/soccer_r
 endif()
 
 if("${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/robot_comm/msg" TYPE FILE FILES "/home/montypylon/soccer_robot_ws/src/robot_comm/msg/Motor.msg")
+endif()
+
+if("${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/robot_comm/cmake" TYPE FILE FILES "/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/catkin_generated/installspace/robot_comm-msg-paths.cmake")
+endif()
+
+if("${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include" TYPE DIRECTORY FILES "/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/devel/include/robot_comm")
+endif()
+
+if("${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/common-lisp/ros" TYPE DIRECTORY FILES "/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/devel/share/common-lisp/ros/robot_comm")
+endif()
+
+if("${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
+  execute_process(COMMAND "/usr/bin/python" -m compileall "/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/devel/lib/python2.7/dist-packages/robot_comm")
+endif()
+
+if("${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/python2.7/dist-packages" TYPE DIRECTORY FILES "/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/devel/lib/python2.7/dist-packages/robot_comm")
+endif()
+
+if("${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/catkin_generated/installspace/robot_comm.pc")
+endif()
+
+if("${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/robot_comm/cmake" TYPE FILE FILES "/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/catkin_generated/installspace/robot_comm-msg-extras.cmake")
 endif()
 
 if("${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)

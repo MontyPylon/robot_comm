@@ -7,6 +7,7 @@ project(robot_comm)
 find_package(catkin REQUIRED COMPONENTS
   roscpp
   std_msgs
+  message_generation
 )
 
 ## System dependencies are found with CMake's conventions
@@ -43,11 +44,7 @@ find_package(catkin REQUIRED COMPONENTS
 ##   * add every package in MSG_DEP_SET to generate_messages(DEPENDENCIES ...)
 
 ## Generate messages in the 'msg' folder
-# add_message_files(
-#   FILES
-#   Message1.msg
-#   Message2.msg
-# )
+add_message_files(DIRECTORY msg FILES Motor.msg)
 
 ## Generate services in the 'srv' folder
 # add_service_files(
@@ -64,10 +61,10 @@ find_package(catkin REQUIRED COMPONENTS
 # )
 
 ## Generate added messages and services with any dependencies listed here
-# generate_messages(
-#   DEPENDENCIES
-#   std_msgs
-# )
+generate_messages(
+  DEPENDENCIES
+  std_msgs
+)
 
 ################################################
 ## Declare ROS dynamic reconfigure parameters ##
@@ -99,10 +96,7 @@ find_package(catkin REQUIRED COMPONENTS
 ## CATKIN_DEPENDS: catkin_packages dependent projects also need
 ## DEPENDS: system dependencies of this project that dependent projects also need
 catkin_package(
-#  INCLUDE_DIRS include
-#  LIBRARIES robot_comm
-#  CATKIN_DEPENDS roscpp std_msgs
-#  DEPENDS system_lib
+        CATKIN_DEPENDS message_runtime
 )
 
 ###########
@@ -122,15 +116,21 @@ include_directories(
 # )
 
 ## Declare a C++ executable
-add_executable(main src/main.cpp)
+add_executable(sendCommand src/SendCommand.cpp)
+add_dependencies(sendCommand ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
+target_link_libraries(sendCommand ${catkin_LIBRARIES} )
 
-## Add cmake target dependencies of the executable
-## same as for the library above
-add_dependencies(main ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
+add_executable(robot_main src/RobotMain.cpp)
+add_dependencies(robot_main ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
+target_link_libraries(robot_main ${catkin_LIBRARIES} )
 
-## Specify libraries to link a library or executable target against
-target_link_libraries(main ${catkin_LIBRARIES} )
+add_executable(talker src/talker.cpp)
+add_dependencies(talker ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
+target_link_libraries(talker ${catkin_LIBRARIES} )
 
+add_executable(listener src/listener.cpp)
+add_dependencies(listener ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
+target_link_libraries(listener ${catkin_LIBRARIES} )
 ## Add cmake target dependencies of the library
 ## as an example, code may need to be generated before libraries
 ## either from message generation or dynamic reconfigure

@@ -2,7 +2,7 @@ prefix=/usr/local
 
 Name: robot_comm
 Description: Description of robot_comm
-Version: 0.0.0
-Cflags: 
+Version: 1.0.0
+Cflags: -I/usr/local/include
 Libs: -L/usr/local/lib 
-Requires: 
+Requires: message_runtime

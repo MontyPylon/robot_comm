@@ -5,7 +5,7 @@
 		<Option title="robot_comm"/>
 		<Option makefile_is_custom="1"/>
 		<Option compiler="gcc"/>
-		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\usr\src\;CMake Files\..\..\..\..\..\usr\src\gtest\;CMake Files\..\..\..\..\..\usr\src\gtest\cmake\;CMake Files\..\..\..\..\..\opt\;CMake Files\..\..\..\..\..\opt\ros\;CMake Files\..\..\..\..\..\opt\ros\indigo\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\catkin\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\catkin\cmake\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\catkin\cmake\platform\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\catkin\cmake\test\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\catkin\cmake\tools\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\catkin\cmake\templates\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\catkin\cmake\em\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\roscpp\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\cpp_common\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\cpp_common\cmake\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\message_runtime\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\message_runtime\cmake\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\roscpp_serialization\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\roscpp_serialization\cmake\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\roscpp_traits\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\roscpp_traits\cmake\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\rostime\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\rostime\cmake\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\rosconsole\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\rosconsole\cmake\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\rosgraph_msgs\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\rosgraph_msgs\cmake\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\std_msgs\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\xmlrpcpp\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\xmlrpcpp\cmake\;CMake Files\cmake-build-debug\;CMake Files\cmake-build-debug\catkin\;CMake Files\cmake-build-debug\catkin\catkin_generated\;CMake Files\cmake-build-debug\catkin\catkin_generated\version\;CMake Files\cmake-build-debug\catkin_generated\;CMake Files\cmake-build-debug\catkin_generated\installspace\;"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\usr\src\;CMake Files\..\..\..\..\..\usr\src\gtest\;CMake Files\..\..\..\..\..\usr\src\gtest\cmake\;CMake Files\..\..\..\..\..\opt\;CMake Files\..\..\..\..\..\opt\ros\;CMake Files\..\..\..\..\..\opt\ros\indigo\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\catkin\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\catkin\cmake\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\catkin\cmake\platform\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\catkin\cmake\test\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\catkin\cmake\tools\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\catkin\cmake\templates\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\catkin\cmake\em\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\roscpp\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\cpp_common\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\cpp_common\cmake\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\message_runtime\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\message_runtime\cmake\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\roscpp_serialization\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\roscpp_serialization\cmake\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\roscpp_traits\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\roscpp_traits\cmake\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\rostime\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\rostime\cmake\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\rosconsole\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\rosconsole\cmake\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\rosgraph_msgs\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\rosgraph_msgs\cmake\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\std_msgs\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\xmlrpcpp\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\xmlrpcpp\cmake\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\message_generation\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\message_generation\cmake\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\gencpp\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\gencpp\cmake\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\genmsg\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\genmsg\cmake\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\genlisp\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\genlisp\cmake\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\genpy\;CMake Files\..\..\..\..\..\opt\ros\indigo\share\genpy\cmake\;CMake Files\cmake-build-debug\;CMake Files\cmake-build-debug\catkin\;CMake Files\cmake-build-debug\catkin\catkin_generated\;CMake Files\cmake-build-debug\catkin\catkin_generated\version\;CMake Files\cmake-build-debug\catkin_generated\;CMake Files\cmake-build-debug\catkin_generated\installspace\;CMake Files\cmake-build-debug\devel\;CMake Files\cmake-build-debug\devel\share\;CMake Files\cmake-build-debug\devel\share\robot_comm\;CMake Files\cmake-build-debug\devel\share\robot_comm\cmake\;CMake Files\cmake-build-debug\cmake\;"/>
 		<Build>
 			<Target title="all">
 				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug"/>
@@ -27,11 +27,31 @@
 					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="rebuild_cache">
 				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
 					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
 					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -57,16 +77,6 @@
 					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="list_install_components">
-				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
 			<Target title="install/strip">
 				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug"/>
 				<Option type="4"/>
@@ -77,88 +87,8 @@
 					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="std_msgs_generate_messages_py">
-				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 std_msgs_generate_messages_py"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="rosgraph_msgs_generate_messages_py">
-				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 rosgraph_msgs_generate_messages_py"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="std_msgs_generate_messages_lisp">
-				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 std_msgs_generate_messages_lisp"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="download_extra_data">
-				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 download_extra_data"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="tests">
-				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 tests"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="doxygen">
-				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 doxygen"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="std_msgs_generate_messages_cpp">
-				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 std_msgs_generate_messages_cpp"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="roscpp_generate_messages_cpp">
-				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 roscpp_generate_messages_cpp"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="main">
-				<Option output="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/devel/lib/robot_comm/main" prefix_auto="0" extension_auto="0"/>
+			<Target title="listener">
+				<Option output="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/devel/lib/robot_comm/listener" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/devel/lib/robot_comm"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -166,6 +96,7 @@
 				<Compiler>
 					<Add option="-DROS_PACKAGE_NAME=&quot;robot_comm&quot;"/>
 					<Add option="-DROSCONSOLE_BACKEND_LOG4CXX"/>
+					<Add directory="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/devel/include"/>
 					<Add directory="/opt/ros/indigo/include"/>
 					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
 					<Add directory="/usr/local/include"/>
@@ -177,14 +108,14 @@
 					<Add directory="/usr/include/c++/4.8/backward"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 main"/>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 listener"/>
 					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="main/fast">
-				<Option output="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/devel/lib/robot_comm/main" prefix_auto="0" extension_auto="0"/>
+			<Target title="listener/fast">
+				<Option output="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/devel/lib/robot_comm/listener" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/devel/lib/robot_comm"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -192,6 +123,7 @@
 				<Compiler>
 					<Add option="-DROS_PACKAGE_NAME=&quot;robot_comm&quot;"/>
 					<Add option="-DROSCONSOLE_BACKEND_LOG4CXX"/>
+					<Add directory="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/devel/include"/>
 					<Add directory="/opt/ros/indigo/include"/>
 					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
 					<Add directory="/usr/local/include"/>
@@ -203,17 +135,81 @@
 					<Add directory="/usr/include/c++/4.8/backward"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 main/fast"/>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 listener/fast"/>
 					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="clean_test_results">
+			<Target title="sendCommand">
+				<Option output="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/devel/lib/robot_comm/sendCommand" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/devel/lib/robot_comm"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DROS_PACKAGE_NAME=&quot;robot_comm&quot;"/>
+					<Add option="-DROSCONSOLE_BACKEND_LOG4CXX"/>
+					<Add directory="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/devel/include"/>
+					<Add directory="/opt/ros/indigo/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 sendCommand"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sendCommand/fast">
+				<Option output="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/devel/lib/robot_comm/sendCommand" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/devel/lib/robot_comm"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DROS_PACKAGE_NAME=&quot;robot_comm&quot;"/>
+					<Add option="-DROSCONSOLE_BACKEND_LOG4CXX"/>
+					<Add directory="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/devel/include"/>
+					<Add directory="/opt/ros/indigo/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 sendCommand/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="roscpp_generate_messages_py">
 				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean_test_results"/>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 roscpp_generate_messages_py"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="robot_comm_generate_messages">
+				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 robot_comm_generate_messages"/>
 					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -229,21 +225,65 @@
 					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="run_tests">
-				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug"/>
-				<Option type="4"/>
+			<Target title="talker">
+				<Option output="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/devel/lib/robot_comm/talker" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/devel/lib/robot_comm"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DROS_PACKAGE_NAME=&quot;robot_comm&quot;"/>
+					<Add option="-DROSCONSOLE_BACKEND_LOG4CXX"/>
+					<Add directory="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/devel/include"/>
+					<Add directory="/opt/ros/indigo/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 run_tests"/>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 talker"/>
 					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="rosgraph_msgs_generate_messages_lisp">
+			<Target title="talker/fast">
+				<Option output="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/devel/lib/robot_comm/talker" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/devel/lib/robot_comm"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DROS_PACKAGE_NAME=&quot;robot_comm&quot;"/>
+					<Add option="-DROSCONSOLE_BACKEND_LOG4CXX"/>
+					<Add directory="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/devel/include"/>
+					<Add directory="/opt/ros/indigo/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 talker/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="clean_test_results">
 				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 rosgraph_msgs_generate_messages_lisp"/>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean_test_results"/>
 					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -259,21 +299,225 @@
 					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="edit_cache">
+			<Target title="std_msgs_generate_messages_cpp">
 				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 std_msgs_generate_messages_cpp"/>
 					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="roscpp_generate_messages_py">
+			<Target title="run_tests">
 				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 roscpp_generate_messages_py"/>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 run_tests"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="doxygen">
+				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 doxygen"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="robot_main">
+				<Option output="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/devel/lib/robot_comm/robot_main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/devel/lib/robot_comm"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DROS_PACKAGE_NAME=&quot;robot_comm&quot;"/>
+					<Add option="-DROSCONSOLE_BACKEND_LOG4CXX"/>
+					<Add directory="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/devel/include"/>
+					<Add directory="/opt/ros/indigo/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 robot_main"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="robot_main/fast">
+				<Option output="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/devel/lib/robot_comm/robot_main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/devel/lib/robot_comm"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DROS_PACKAGE_NAME=&quot;robot_comm&quot;"/>
+					<Add option="-DROSCONSOLE_BACKEND_LOG4CXX"/>
+					<Add directory="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/devel/include"/>
+					<Add directory="/opt/ros/indigo/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 robot_main/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="roscpp_generate_messages_cpp">
+				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 roscpp_generate_messages_cpp"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="robot_comm_genlisp">
+				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 robot_comm_genlisp"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="download_extra_data">
+				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 download_extra_data"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="std_msgs_generate_messages_lisp">
+				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 std_msgs_generate_messages_lisp"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="robot_comm_generate_messages_py">
+				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 robot_comm_generate_messages_py"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="std_msgs_generate_messages_py">
+				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 std_msgs_generate_messages_py"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="robot_comm_generate_messages_cpp">
+				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 robot_comm_generate_messages_cpp"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="_robot_comm_generate_messages_check_deps_Motor">
+				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 _robot_comm_generate_messages_check_deps_Motor"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="robot_comm_gencpp">
+				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 robot_comm_gencpp"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="robot_comm_generate_messages_lisp">
+				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 robot_comm_generate_messages_lisp"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rosgraph_msgs_generate_messages_lisp">
+				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 rosgraph_msgs_generate_messages_lisp"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tests">
+				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 tests"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rosgraph_msgs_generate_messages_py">
+				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 rosgraph_msgs_generate_messages_py"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="robot_comm_genpy">
+				<Option working_dir="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 robot_comm_genpy"/>
 					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j2 -f &quot;/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -388,8 +632,17 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/src/main.cpp">
-			<Option target="main"/>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/src/RobotMain.cpp">
+			<Option target="robot_main"/>
+		</Unit>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/src/SendCommand.cpp">
+			<Option target="sendCommand"/>
+		</Unit>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/src/listener.cpp">
+			<Option target="listener"/>
+		</Unit>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/src/talker.cpp">
+			<Option target="talker"/>
 		</Unit>
 		<Unit filename="/usr/src/gtest/src/gtest-all.cc">
 			<Option target="gtest"/>
@@ -503,6 +756,12 @@
 			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\indigo\share\catkin\cmake\"/>
 		</Unit>
 		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/../../../../../opt/ros/indigo/share/catkin/cmake/interrogate_setup_dot_py.py">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\indigo\share\catkin\cmake\"/>
+		</Unit>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/../../../../../opt/ros/indigo/share/catkin/cmake/catkinConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\indigo\share\catkin\cmake\"/>
+		</Unit>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/../../../../../opt/ros/indigo/share/catkin/cmake/catkinConfig.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\indigo\share\catkin\cmake\"/>
 		</Unit>
 		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/../../../../../opt/ros/indigo/share/catkin/cmake/platform/lsb.cmake">
@@ -673,11 +932,104 @@
 		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/../../../../../opt/ros/indigo/share/std_msgs/cmake/std_msgsConfig.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\"/>
 		</Unit>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/../../../../../opt/ros/indigo/share/std_msgs/cmake/std_msgs-msg-paths.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\"/>
+		</Unit>
 		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/../../../../../opt/ros/indigo/share/xmlrpcpp/cmake/xmlrpcppConfig-version.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\indigo\share\xmlrpcpp\cmake\"/>
 		</Unit>
 		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/../../../../../opt/ros/indigo/share/xmlrpcpp/cmake/xmlrpcppConfig.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\indigo\share\xmlrpcpp\cmake\"/>
+		</Unit>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/../../../../../opt/ros/indigo/share/message_generation/cmake/message_generationConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\indigo\share\message_generation\cmake\"/>
+		</Unit>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/../../../../../opt/ros/indigo/share/message_generation/cmake/message_generationConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\indigo\share\message_generation\cmake\"/>
+		</Unit>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/../../../../../opt/ros/indigo/share/gencpp/cmake/gencppConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\indigo\share\gencpp\cmake\"/>
+		</Unit>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/../../../../../opt/ros/indigo/share/gencpp/cmake/gencppConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\indigo\share\gencpp\cmake\"/>
+		</Unit>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/../../../../../opt/ros/indigo/share/gencpp/cmake/gencppConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\indigo\share\gencpp\cmake\"/>
+		</Unit>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/../../../../../opt/ros/indigo/share/gencpp/cmake/gencppConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\indigo\share\gencpp\cmake\"/>
+		</Unit>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/../../../../../opt/ros/indigo/share/gencpp/cmake/gencpp-extras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\indigo\share\gencpp\cmake\"/>
+		</Unit>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/../../../../../opt/ros/indigo/share/gencpp/cmake/gencppConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\indigo\share\gencpp\cmake\"/>
+		</Unit>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/../../../../../opt/ros/indigo/share/gencpp/cmake/gencppConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\indigo\share\gencpp\cmake\"/>
+		</Unit>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/../../../../../opt/ros/indigo/share/genmsg/cmake/genmsgConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\indigo\share\genmsg\cmake\"/>
+		</Unit>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/../../../../../opt/ros/indigo/share/genmsg/cmake/genmsgConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\indigo\share\genmsg\cmake\"/>
+		</Unit>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/../../../../../opt/ros/indigo/share/genmsg/cmake/genmsg-extras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\indigo\share\genmsg\cmake\"/>
+		</Unit>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/../../../../../opt/ros/indigo/share/genmsg/cmake/genmsgConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\indigo\share\genmsg\cmake\"/>
+		</Unit>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/../../../../../opt/ros/indigo/share/genmsg/cmake/genmsgConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\indigo\share\genmsg\cmake\"/>
+		</Unit>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/../../../../../opt/ros/indigo/share/genmsg/cmake/pkg-msg-paths.cmake.develspace.in">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\indigo\share\genmsg\cmake\"/>
+		</Unit>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/../../../../../opt/ros/indigo/share/genmsg/cmake/pkg-msg-paths.cmake.installspace.in">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\indigo\share\genmsg\cmake\"/>
+		</Unit>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/../../../../../opt/ros/indigo/share/genmsg/cmake/pkg-msg-extras.cmake.in">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\indigo\share\genmsg\cmake\"/>
+		</Unit>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/../../../../../opt/ros/indigo/share/genmsg/cmake/pkg-msg-extras.cmake.in">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\indigo\share\genmsg\cmake\"/>
+		</Unit>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/../../../../../opt/ros/indigo/share/genmsg/cmake/pkg-genmsg.context.in">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\indigo\share\genmsg\cmake\"/>
+		</Unit>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/../../../../../opt/ros/indigo/share/genmsg/cmake/pkg-genmsg.cmake.em">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\indigo\share\genmsg\cmake\"/>
+		</Unit>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/../../../../../opt/ros/indigo/share/genlisp/cmake/genlispConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\indigo\share\genlisp\cmake\"/>
+		</Unit>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/../../../../../opt/ros/indigo/share/genlisp/cmake/genlispConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\indigo\share\genlisp\cmake\"/>
+		</Unit>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/../../../../../opt/ros/indigo/share/genlisp/cmake/genlisp-extras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\indigo\share\genlisp\cmake\"/>
+		</Unit>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/../../../../../opt/ros/indigo/share/genlisp/cmake/genlispConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\indigo\share\genlisp\cmake\"/>
+		</Unit>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/../../../../../opt/ros/indigo/share/genlisp/cmake/genlispConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\indigo\share\genlisp\cmake\"/>
+		</Unit>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/../../../../../opt/ros/indigo/share/genpy/cmake/genpyConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\indigo\share\genpy\cmake\"/>
+		</Unit>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/../../../../../opt/ros/indigo/share/genpy/cmake/genpyConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\indigo\share\genpy\cmake\"/>
+		</Unit>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/../../../../../opt/ros/indigo/share/genpy/cmake/genpy-extras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\indigo\share\genpy\cmake\"/>
+		</Unit>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/../../../../../opt/ros/indigo/share/genpy/cmake/genpyConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\indigo\share\genpy\cmake\"/>
+		</Unit>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/../../../../../opt/ros/indigo/share/genpy/cmake/genpyConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\indigo\share\genpy\cmake\"/>
 		</Unit>
 		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/catkin/catkin_generated/version/package.cmake">
 			<Option virtualFolder="CMake Files\cmake-build-debug\catkin\catkin_generated\version\"/>
@@ -691,8 +1043,20 @@
 		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/catkin_generated/package.cmake">
 			<Option virtualFolder="CMake Files\cmake-build-debug\catkin_generated\"/>
 		</Unit>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/catkin_generated/robot_comm-msg-extras.cmake.develspace.in">
+			<Option virtualFolder="CMake Files\cmake-build-debug\catkin_generated\"/>
+		</Unit>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/catkin_generated/robot_comm-msg-extras.cmake.installspace.in">
+			<Option virtualFolder="CMake Files\cmake-build-debug\catkin_generated\"/>
+		</Unit>
 		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/catkin_generated/installspace/_setup_util.py">
 			<Option virtualFolder="CMake Files\cmake-build-debug\catkin_generated\installspace\"/>
+		</Unit>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/devel/share/robot_comm/cmake/robot_comm-msg-paths.cmake">
+			<Option virtualFolder="CMake Files\cmake-build-debug\devel\share\robot_comm\cmake\"/>
+		</Unit>
+		<Unit filename="/home/montypylon/soccer_robot_ws/src/robot_comm/cmake-build-debug/cmake/robot_comm-genmsg.cmake">
+			<Option virtualFolder="CMake Files\cmake-build-debug\cmake\"/>
 		</Unit>
 	</Project>
 </CodeBlocks_project_file>
