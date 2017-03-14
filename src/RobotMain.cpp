@@ -95,7 +95,7 @@ int main(int argc, char **argv)
         msg.right_power = 255;
         
         teleOpCommands();
-        signal(SIGINT, quit);
+        //signal(SIGINT, quit);
         
         command_pub.publish(msg);
         ros::spinOnce();
