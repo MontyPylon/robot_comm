@@ -26,30 +26,47 @@ int resolvehelper(const char* hostname, int family, const char* service, sockadd
     return result;
 }
 
-string returnCommand(robot_comm::Motor incoming) {
+string formatPower(int power) {
+    bool neg = false;
+    std::stringstream cmd;
+    if(power < 0) {
+        neg = true;
+        power = power * -1;
+    }
 
-    if(incoming.right_power > 255 || incoming.right_power < -255 || incoming.left_power > 255 || incoming.left_power < -255) {
-        cout << "ONE POWER IS TOO LARGE" << endl;
-        cout << "SENDING THIS COMMAND: +000+000" << endl;
-        return "+000+000";
+    if(power >= 100 && power < 1000) {
+        cmd << "0" << power;
+    } else if(power >= 10 && power < 100) {
+        cmd << "00" << power;
+    } else if(power >= 0 && power < 10) {
+        cmd << "000" << power;
+    } else {
+        cmd << power;
+    }
+
+    string cmdFin;
+    if(!neg) {
+        cmdFin = "+" + cmd.str();
+    } else {
+        cmdFin = "-" + cmd.str();
     }
     
-    std::stringstream left;
-    if(incoming.left_power >= 0) {
-        left << "+" << incoming.left_power;
-    } else {
-        left << incoming.left_power;
+    return cmdFin;
+}
+
+string returnCommand(robot_comm::Motor incoming) {
+
+    if(incoming.right_power > 1023 || incoming.right_power < -1023 || incoming.left_power > 1023 || incoming.left_power < -1023) {
+        cout << "POWER IS TOO LARGE" << endl;
+        cout << "SENDING THIS COMMAND: +0000+0000" << endl;
+        return "+0000+0000";
     }
 
-    std::stringstream right;
-    if(incoming.right_power >= 0) {
-        right << "+" << incoming.right_power;
-    } else {
-        right << incoming.right_power;
-    }
+    string left = formatPower(incoming.left_power);
+    string right = formatPower(incoming.right_power);
 
     std::stringstream command;
-    command << left.str() << right.str() << endl;
+    command << left << right;
     cout << "SENDING THIS COMMAND: " << command.str() << endl;
     
     return command.str();

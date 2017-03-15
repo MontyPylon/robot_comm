@@ -124,13 +124,10 @@ add_executable(robot_main src/RobotMain.cpp)
 add_dependencies(robot_main ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
 target_link_libraries(robot_main ${catkin_LIBRARIES} )
 
-add_executable(talker src/talker.cpp)
-add_dependencies(talker ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
-target_link_libraries(talker ${catkin_LIBRARIES} )
+add_executable(teleop src/Teleop.cpp)
+add_dependencies(teleop ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
+target_link_libraries(teleop ${catkin_LIBRARIES} )
 
-add_executable(listener src/listener.cpp)
-add_dependencies(listener ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
-target_link_libraries(listener ${catkin_LIBRARIES} )
 ## Add cmake target dependencies of the library
 ## as an example, code may need to be generated before libraries
 ## either from message generation or dynamic reconfigure
