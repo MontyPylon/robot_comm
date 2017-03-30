@@ -18,7 +18,6 @@ find_package(catkin REQUIRED COMPONENTS
         sensor_msgs
         actionlib
         actionlib_msgs
-        move_base_msgs
         roscpp
         rospy
         tf
