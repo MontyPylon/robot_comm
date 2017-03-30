@@ -90,7 +90,7 @@ void sendMsg(robot_comm::Motor incoming) {
 
 
     sockaddr_storage addrDest = {};
-    result = resolvehelper("192.168.0.101", AF_INET, "2390", &addrDest);
+    result = resolvehelper("192.168.0.100", AF_INET, "2390", &addrDest);
     if (result != 0)
     {
         int lasterror = errno;

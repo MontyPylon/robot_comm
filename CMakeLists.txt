@@ -5,9 +5,23 @@ project(robot_comm)
 ## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
 ## is used, also find other catkin packages
 find_package(catkin REQUIRED COMPONENTS
-  roscpp
-  std_msgs
-  message_generation
+        roscpp
+        rospy
+        std_msgs
+        geometry_msgs
+        turtlesim
+        message_generation
+        cv_bridge
+        image_transport
+        pcl_ros
+        pcl_conversions
+        sensor_msgs
+        actionlib
+        actionlib_msgs
+        move_base_msgs
+        roscpp
+        rospy
+        tf
 )
 
 ## System dependencies are found with CMake's conventions
@@ -107,7 +121,7 @@ catkin_package(
 ## Your package locations should be listed before other locations
 # include_directories(include)
 include_directories(
-  ${catkin_INCLUDE_DIRS}
+  ${catkin_INCLUDE_DIRS} include
 )
 
 ## Declare a C++ library
@@ -127,6 +141,10 @@ target_link_libraries(robot_main ${catkin_LIBRARIES} )
 add_executable(teleop src/Teleop.cpp)
 add_dependencies(teleop ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
 target_link_libraries(teleop ${catkin_LIBRARIES} )
+
+add_executable(image_handler src/image_handler.cpp)
+add_dependencies(image_handler ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
+target_link_libraries(image_handler ${catkin_LIBRARIES} )
 
 ## Add cmake target dependencies of the library
 ## as an example, code may need to be generated before libraries
